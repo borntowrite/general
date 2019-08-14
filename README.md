@@ -27,7 +27,6 @@
 -	mysqlclient is installed (if you set default DB as mysql), create database <make db name same as foler name>
 
 # Apache + PHP + MySQL
-# Ready
 -	C:\Apache
 -	C:\Apache\htdocs
 -	C:\php
@@ -45,11 +44,11 @@
 -	C:\Windows\System32\drivers\etc
 -	Edit hosts
 ```
-                Copy to somewhere else since it won’t allow changing it directly
-                Edit
+Copy to somewhere else since it won’t allow changing it directly
+Edit
 127.0.0.1 case.com
 127.0.0.1 www.case.com
-                Copy back to original folder
+Copy back to original folder
 ```
 -	C:\Apache\conf\extra
 -	Open httpd-vhosts.conf

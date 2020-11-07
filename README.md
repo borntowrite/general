@@ -30,9 +30,12 @@
 -	C:\Apache
 -	C:\Apache\htdocs
 -	C:\php
--	C:\MySQL à Mysql -u root -p
+-	C:\MySQL -> type Mysql -u root -p
 -	type localhost in browser
+- run phpmyadmin
+
 # MYSQL
+- reset password
 - If you use MySQL 5.7.6 and later:
 - ALTER USER 'root'@'localhost' IDENTIFIED BY 'MyNewPass';
 - If you use MySQL 5.7.5 and earlier:
